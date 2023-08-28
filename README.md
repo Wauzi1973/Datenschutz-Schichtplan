@@ -2,7 +2,11 @@
 August 28, 2023
 
 # Welche Berechtigungen werden benötigt und wie werden sie verwendet ?
-Es werden keine Berechtigungen benötigt. Alle Berechnungen in der App "Schichtplan" werden lokal auf dem jeweiligen Gerät durchgeführt und gespeichert.
+Ein Backup aller Ereignisse und Geburtstage kann auf dem Mobilgerät erstellt werden.
+Bei einem Wechsel des Mobilgerätes muss der Ordner wo das Backup gespeichert ist,
+vom alten Mobilgerät auf das neue kopiert werden. Das Backup kann dann auf dem neuen Gerät importiert werden.
+Zu diesem Zweck müssen keine Berechtigungen zugelassen sein.
+
 
 # Welche Informationen werden gesammelt und wie werden sie verwendet ?
 Es werden von uns keine Daten gespeichert oder an Dritte weitergegeben.
